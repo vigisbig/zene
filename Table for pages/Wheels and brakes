@@ -1,0 +1,35 @@
+<table class="table-default">
+<thead>
+<tr>
+<th><strong>Wheels and brakes</strong></th>
+<th><strong>Std.</strong></th>
+<th><strong>LXi</strong></th>
+<th><strong>VXi</strong></th>
+<th><strong>VXi+</strong></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Tyre size</strong></td>
+<td data-name="Std.">145/80 R13</td>
+<td data-name="LXi">145/80 R13</td>
+<td data-name="VXi">165/70 R14</td>
+<td data-name="VXi+">165/70 R14</td>
+</tr>
+<tr>
+<td><strong>Brakes (Front)</strong></td>
+<td data-name="Std.">Ventilated discs</td>
+<td data-name="LXi">Ventilated discs</td>
+<td data-name="VXi">Ventilated discs</td>
+<td data-name="VXi+">Ventilated discs</td>
+</tr>
+<tr>
+<td><b>Brakes (Rear)</b></td>
+<td data-name="Std.">Drum</td>
+<td data-name="LXi">Drum</td>
+<td data-name="VXi">Drum</td>
+<td data-name="VXi+">Drum</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,64 @@
+<table class="table-default">
+<thead>
+<tr>
+<th><strong>Engine and Transmission</strong></th>
+<th><strong>Std.</strong></th>
+<th><strong>LXi</strong></th>
+<th><strong>VXi</strong></th>
+<th><strong>VXi+</strong></th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Engine capacity (cc)</strong></td>
+<td data-name="Std.">10</td>
+<td data-name="LXi">NA</td>
+<td data-name="VXi">25</td>
+<td data-name="VXi+">7</td>
+</tr>
+<tr>
+<td><strong>Peak Power (bhp)</strong></td>
+<td data-name="Std.">4.4</td>
+<td data-name="LXi">4.08</td>
+<td data-name="VXi">6</td>
+<td data-name="VXi+">1.8</td>
+</tr>
+<tr>
+<td><b>Torque (Nm)</b></td>
+<td data-name="Std.">140</td>
+<td data-name="LXi">16</td>
+<td data-name="VXi">26</td>
+<td data-name="VXi+">NA</td>
+</tr>
+<tr>
+<td><b>Fuel capacity</b></td>
+<td data-name="Std.">75</td>
+<td data-name="LXi">95</td>
+<td data-name="VXi">85</td>
+<td data-name="VXi+">80</td>
+</tr>
+<tr>
+<td><b>Fuel type</b></td>
+<td data-name="Std.">3 or 50,000</td>
+<td data-name="LXi">3 or 50,000</td>
+<td data-name="VXi">3 for <br />
+Unlimited</td>
+<td data-name="VXi+">3 or 20,000</td>
+</tr>
+<tr>
+<td><b>Transmission</b></td>
+<td data-name="Std.">5</td>
+<td data-name="LXi">5</td>
+<td data-name="VXi">NA</td>
+<td data-name="VXi+">5</td>
+</tr>
+<tr>
+<td><b>Drive</b></td>
+<td data-name="Std.">78</td>
+<td data-name="LXi">65</td>
+<td data-name="VXi">80</td>
+<td data-name="VXi+">45</td>
+</tr>
+</tbody>
+</table>
